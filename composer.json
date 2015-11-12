@@ -1,0 +1,24 @@
+{
+
+  "name" : "gnarm/gryphonphp",
+
+  "requires" : {
+
+    "gnarm/flycatcher" : "dev-dev",
+    "gnarm/fennec" : "dev-dev",
+    "gnarm/coati" : "dev-dev",
+    "gnarm/hyrax" : "dev-dev"
+
+  },
+
+  "autoload" : {
+
+    "psr-4" : {
+
+      "GryphonPHP\\" : "GryphonPHP/"
+
+    }
+
+  }
+
+}
